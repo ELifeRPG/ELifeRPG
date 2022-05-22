@@ -3,7 +3,7 @@
 
 ## About
 
-This project is a proof of concept for a roleplay modification. Waiting for ArmA:4 the testbase will be ArmA:Reforger.
+This project is a technical proof of concept for a roleplay modification. Waiting for ArmA:4 the testbase will be ArmA:Reforger.
 
 
 
